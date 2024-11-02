@@ -1,0 +1,14 @@
+body {
+color:white;
+background:pink;
+}
+
+header{
+    border: solid 2px white;
+
+}
+
+.categoria{
+    padding-left: 20px;
+    padding-right: 20px;
+}
